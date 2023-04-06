@@ -129,3 +129,23 @@ code {
     animation: progress 1.5s ease-in-out forwards;
   }
 }
+.separator {
+  height: 1em;
+  width: 100%;
+  background-color: "#e9ecef";
+  background: linear-gradient(
+    136deg,
+    #E3170A,
+    #1ad7c0,
+    #ff9b11,
+    #9b59b6,
+    #CE84AD,
+    #ecf0f1
+  );
+  background-size: 1200% 1200%;
+  -webkit-animation: BackgroundAnimation 70s ease infinite;
+  -moz-animation: BackgroundAnimation 70s ease infinite;
+  -o-animation: BackgroundAnimation 70s ease infinite;
+  animation: BackgroundAnimation 70s ease infinite;
+  border-radius: .5em;
+}

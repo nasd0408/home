@@ -65,3 +65,21 @@
     transform: scaleX(1);
   }
 }
+
+@keyframes separator-animation {
+  0% {
+    background-image: linear-gradient(to right, #E3170A, #1ad7c0);
+  }
+  25% {
+    background-image: linear-gradient(to right, #1ad7c0, #ff9b11);
+  }
+  50% {
+    background-image: linear-gradient(to right, #ff9b11, #9b59b6);
+  }
+  75% {
+    background-image: linear-gradient(to right, #9b59b6, #CE84AD);
+  }
+  100% {
+    background-image: linear-gradient(to right, #CE84AD, #ecf0f1);
+  }
+}
