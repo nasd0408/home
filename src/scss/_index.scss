@@ -134,18 +134,17 @@ code {
   width: 100%;
   background-color: "#e9ecef";
   background: linear-gradient(
-    136deg,
-    #E3170A,
-    #1ad7c0,
-    #ff9b11,
-    #9b59b6,
-    #CE84AD,
-    #ecf0f1
+    90deg,
+    #96BBBB,
+    #618985,
+    #414535,
+    #A8763E,
+    #C19875
   );
   background-size: 1200% 1200%;
-  -webkit-animation: BackgroundAnimation 70s ease infinite;
-  -moz-animation: BackgroundAnimation 70s ease infinite;
-  -o-animation: BackgroundAnimation 70s ease infinite;
-  animation: BackgroundAnimation 70s ease infinite;
+  -webkit-animation: BackgroundAnimation 20s ease infinite;
+  -moz-animation: BackgroundAnimation 20s ease infinite;
+  -o-animation: BackgroundAnimation 20s ease infinite;
+  animation: BackgroundAnimation 20s ease infinite;
   border-radius: .5em;
 }

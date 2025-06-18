@@ -1,229 +1,50 @@
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <h1 align="center">Developer's Portfolio ✨</h1>
+# Nicolás Sira - Ingeniero Informático & Analista de Datos
 
-  <p align="center">
-    It is a personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects. Site URL / Demo: 
-    <a href="https://hashirshoaeb.github.io/home">hashirshoaeb.github.io/home</a>
-    <br />
-    <br />
-    <a href="https://hashirshoaeb.github.io">About Me</a>
-  </p>
-</p>
+---
 
-![GitHub contributors](https://img.shields.io/github/contributors/hashirshoaeb/home?color=ffcc66&style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/hashirshoaeb/home?color=ffcc66&style=for-the-badge)
-[![GitHub forks](https://img.shields.io/github/forks/hashirshoaeb/home?style=for-the-badge)](https://github.com/hashirshoaeb/star_book/network)
-[![GitHub issues](https://img.shields.io/github/issues/hashirshoaeb/home?color=ffcc66&style=for-the-badge)](https://github.com/hashirshoaeb/star_book/issues)
-[![GitHub license](https://img.shields.io/github/license/hashirshoaeb/home?style=for-the-badge)](https://github.com/hashirshoaeb/home/blob/master/LICENSE)
-[![Twitter Follow](https://img.shields.io/twitter/follow/hashirshoaeb?color=ffcc66&logo=twitter&logoColor=ffffff&style=for-the-badge)](https://twitter.com/hashirshoaeb)
-[![Node Version](https://img.shields.io/static/v1?label=Node&message=v16.16.0&color=026e00&style=for-the-badge)](https://nodejs.org)
-[![npm Version](https://img.shields.io/static/v1?label=npm&message=8.11.0&color=cb0000&style=for-the-badge)](https://nodejs.org)
+Bienvenido al repositorio de mi sitio web personal y portafolio. Este espacio digital es una extensión de mi perfil profesional, donde comparto mi trayectoria, habilidades y proyectos destacados en el campo de la **Ingeniería Informática**, con un enfoque particular en el **Análisis de Datos** y la **Automatización**.
 
-[![Site preview](/public/social-image.png)](https://hashirshoaeb.github.io/home)
+## Sobre Mí
 
-## Table of Contents
+Soy **Nicolás Sira**, un Ingeniero Informático de 27 años, graduado en 2024, con experiencia en la gestión y transformación digital de datos. Mi pasión es convertir datos complejos en información estratégica para la toma de decisiones. Durante mis casi dos años como **Jefe del Departamento de TI** en una empresa de distribución de cauchos y aceites en Barquisimeto, Lara, Venezuela, lideré la migración de sistemas ERP, implementé soluciones de automatización con Python y SQL, y desarrollé dashboards interactivos en Power BI, generando un impacto tangible en la eficiencia operativa.
 
-- [Technology Stack 🛠️](#technology-stack-)
-- [Structure ⚓](#structure-)
-- [Sharing 💗](#sharing-)
-- [Prerequisites 🍪](#prerequisites-)
-- [Setup And Deployment 🔧](#setup-and-deployment-)
-- [Contributing 🙌](#contributing-)
-- [Issues](#issues)
-- [Upcoming Features / Improvements 🔗](#upcoming-features-/-improvements-)
-- [Showcase 🚀](#showcase-)
-- [Versão em Português :brazil:](#versao-em-portugues-)
+Mi objetivo es seguir creciendo como Analista de Datos, aplicando mis conocimientos técnicos y mi experiencia en liderazgo para impulsar la innovación y el crecimiento empresarial.
 
-## Technology Stack 🛠️
+## Habilidades Técnicas
 
-Dependencies defined in package.json:
+Mis principales áreas de expertise incluyen:
 
-[Reactjs](https://reactjs.org/)
-| [Bootstrap](https://getbootstrap.com/)
-| [Typist](https://github.com/jstejada/react-typist)
-| [GitHub API](https://developer.github.com/v3/repos/)
-| [Instagram API](https://www.instagram.com/developer/embedding/)
+* **Lenguajes de Programación:** Python, SQL, JavaScript
+* **Análisis y Visualización de Datos:** Power BI, MS SQL Server, Odoo Sheets
+* **Desarrollo Web:** React.js, Vue.js, Express.js, HTML, CSS
+* **Gestión de Proyectos y Sistemas:** Migración de ERP, Automatización de Procesos, Soporte TI.
 
-## Structure ⚓
+## Proyectos Destacados
 
-- Navigation bar (optional)
-- Body
-  - Name | Profession
-  - Contact / Follow / Find me / Facebook / LinkedIn / GitHub / Instagram / Email / CodePen
-  - Resume | About me
-- About Me
-  - Display picture (optional)
-  - About myself, my Interests, Goals and Hobbies
-  - Things I'm good at (Skills)
-  - Resume button
-- Recent Projects (using GitHub API) (optional)
-- Leadership (optional)
-  - Paragraph
-  - Carousel images
-- Skills (optional)
-  - Technical Skills
-  - Soft Skills
-- Footer
-  - Footer Note (optional)
-  - Copyrights - open source
-  - Acknowledgements(
+Aquí puedes encontrar algunos de los proyectos más relevantes que he desarrollado o en los que he participado. Próximamente, este espacio se expandirá con más ejemplos y enlaces directos a los repositorios de código.
 
-## Sharing 💗
+### 1. Automatización de Procesos de Ventas y Cobranzas
 
-Project is open source. Feel free to make your own version. All you need to do is to fork this repository, edit [src/editable-stuff/config.js](./src/editable-stuff/config.js) and add resume. Mark star ⭐ if you like the project.
+* **Descripción:** Desarrollo e implementación de scripts en **Python** y consultas **SQL** para automatizar el cálculo de comisiones de vendedores y optimizar el ciclo de vida de las cobranzas.
+* **Impacto:** Reducción significativa en el tiempo de procesamiento y mejora en la precisión de los datos financieros.
+* **Tecnologías:** Python, SQL, Automatización.
 
-## Prerequisites 🍪
+### 2. Migración de Sistema ERP y Creación de Dashboards Estratégicos
 
-You should have [Node.js](https://nodejs.org/en/) and [Git](https://git-scm.com/) installed on your PC. You should also own a GitHub account.
+* **Descripción:** Liderazgo en la migración de un sistema ERP crítico, asegurando la continuidad operativa. Diseño y construcción de **paneles interactivos y dinámicos en Power BI y Odoo Sheets** para la visualización de indicadores clave de rendimiento (KPIs).
+* **Impacto:** Facilitó la toma de decisiones gerenciales basadas en datos, optimizando recursos y operaciones.
+* **Tecnologías:** Power BI, Odoo Sheets, MS SQL Server, Gestión de Proyectos, Visualización de Datos.
 
-## Setup And Deployment 🔧
 
-1. To Get Started, Fork this repository to your GitHub account:
-2. Clone the forked repo from your account using:
 
-   ```bash
-     git clone https://github.com/<your-username>/home.git
-   ```
+## Contribuciones
 
-3. Open in editor and edit [src/editable-stuff/config.js](./src/editable-stuff/config.js) file.
+Este es un repositorio de mi portafolio personal, pero siempre estoy abierto a aprender y colaborar. Si encuentras algún error o tienes sugerencias para mejorar mi sitio o mis proyectos, ¡no dudes en abrir un *issue* o *pull request*!
 
-4. Add your resume as <resume.pdf> in place of [src/editable-stuff/resume.pdf](./src/editable-stuff/)
+---
 
-5. Edit [title](./public/index.html#L34) and meta [description](./public/index.html#L13) in [public/index.html](./public/index.html).
-6. Change URL in [package.json](./package.json) file:
+## Licencia
 
-   ```json
-    "homepage": "https://<your-username>.github.io/home"
-   ```
+Este proyecto está bajo la Licencia MIT.
 
-   Or for deployment at custom domain, refer [create-react-app.dev](https://create-react-app.dev/docs/deployment/#step-1-add-homepage-to-packagejson)
-
-7. After editing run the following bash commands:
-
-   ```bash
-   npm install
-   npm start
-   ```
-
-8. To deploy website, run:
-
-   ```bash
-    npm run build
-    npm run deploy
-   ```
-
-   Or for deployment at \<username>.github.io, refer [READMEdocs/custom-deployment.md](./READMEdocs/custom-deployment.md) and [pages.js](./pages.js)
-
-9. Congrats your site is up and running. To see it live, visit:
-
-   ```https
-     https://<your-username>.github.io/home
-   ```
-
-10. To change the thumbnail image:
-
-    - Navigate to the "public" folder.  
-    - There you will see "social-image.png".  
-    - Delete it.   
-    - Take a screenshot of your version and rename it "social-image.png" and place it there.  
-    
-   Next time if you make changes, repeat from step 8.
-
-Facing issues? Feel free to contact at hashirshoaeb@gmail.com.
-
-## Showcase 🚀
-
-Have you changed something in the code to create your own version? Feel free to share with me, I will list them in this space.
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/justiceserv/justiceserv.github.io">
-        <img src="READMEdocs/justiceserv-github-io-home.gif" width="300px" alt="" />
-        <br />
-        <sub><b>Guhyun Chung</b></sub>
-      </a>
-      <br />
-    </td>
-    <td align="center">
-      <a href="https://github.com/hamzasohail0/home/">
-        <img src="READMEdocs/hamzasohail0-github-io-home.gif" width="300px" alt="" />
-        <br />
-        <sub><b>Hamza Sohail</b></sub>
-      </a>
-      <br />
-    </td>
-    <td align="center">
-      <a href="https://github.com/AymunTariq/home/">
-        <img src="READMEdocs/aymuntariq-github-io-home.gif" width="300px" alt="" />
-        <br />
-        <sub><b>Aymun Tariq</b></sub>
-      </a>
-      <br />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/anaashrafi/home/">
-        <img src="READMEdocs/anaashrafi-github-io-home.gif" width="300px" alt="" />
-        <br />
-        <sub><b>Ana Ashrafi</b></sub>
-      </a>
-      <br />
-    </td>
-    <td align="center">
-      <a href="https://github.com/jefferyjohn/home/">
-        <img src="READMEdocs/jefferyjohn-github-io-home.gif" width="300px" alt="" />
-        <br />
-        <sub><b>Jeffery John</b></sub>
-      </a>
-      <br />
-    </td>
-    <td align="center">
-      <a href="https://github.com/remimestdagh/home/">
-        <img src="READMEdocs/remimestdagh-github-io-home.gif" width="300px" alt="" />
-        <br />
-        <sub><b>Remi Mestdagh</b></sub>
-      </a>
-      <br />
-    </td>
-  </tr>
-    <tr>
-    <td align="center">
-      <a href="https://github.com/xunxdd/portfolio/tree/master">
-        <br />
-        <sub><b>Xun Ding</b></sub>
-      </a>
-      <br />
-    </td>    
-    <td align="center">
-      <a href="https://github.com/S-Philp/Shannel.philp">
-        <br />
-        <sub><b>Shannel Philp</b></sub>
-      </a>
-      <br />
-    </td>    
-    <td align="center">
-      <a href="https://github.com/bibinvargheset/home">
-        <br />
-        <sub><b>Bibin Varghese</b></sub>
-      </a>
-      <br />
-    </td>
-  </tr>
-</table>
-
-## Versão em Português :brazil:
-
-Esse projeto foi traduzido para português! Se você gostou dele e quer criar a sua própria versão, confira o repositório do [@tashima42](https://github.com/tashima42) em [https://github.com/Tashima42/home](https://github.com/Tashima42/home).
-Novas contribuições e revisões na tradução são muito bem vindas!
-
-## Notice:
-
-This project has been archived. Means that it is no longer actively maintained by developer. Free free to fork, use and maintain your own version. You can check my new portfolio template [here](https://github.com/hashirshoaeb/portfolio)
-
-## Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/hashirshoaeb/home.svg)](https://starchart.cc/hashirshoaeb/home)
+---

@@ -5,11 +5,11 @@ const navBar = {
 
 // Main Body SECTION
 const mainBody = {
-  gradientColors: "#E3170A, #1ad7c0, #ff9b11, #9b59b6, #CE84AD, #ecf0f1",
+  gradientColors: "#96BBBB, #618985, #414535, #A8763E, #C19875",
   firstName: "Nicolás",
   middleName: "Alberto",
   lastName: "Sira",
-  message: " Code that is beautiful to look at, is beautiful to use. ",
+  message: "Transforming data into strategic decisions, one line of code at a time.",
   icons: [
     {
       image: "fa-github",
@@ -50,9 +50,10 @@ const about = {
   heading: "About Me",
   imageLink: require("../editable-stuff/Nicolas.png"),
   imageSize: 375,
-  message:
-    "Hello there! My name is Nicolás Alberto Sira Delgado, and I am an enthusiastic student of computer engineering. My main goal is to enhance my skills and knowledge in the field of technology while seeking opportunities to grow and develop further. Throughout my academic journey, I have gained experience working collaboratively in teams and leading development groups. Additionally, I possess a sharp learning ability and stay up-to-date with the newest trends and advancements in the technology industry.",
-  resume: "https://drive.google.com/file/d/1Fv5g6iFO0Pn2jWkx4qi7hpyEKr1zy3Gj/view?usp=sharing",
+  message1: "I'm Nicolás Sira, a Computer Engineer with a strong passion for transforming complex data into strategic business insights. Graduated in 2024, I bring nearly two years of hands-on experience leading an IT Department in the distribution sector in Barquisimeto, Venezuela",
+  message2: "My expertise includes ERP system migrations, developing Power BI dashboards for data-driven decision-making, and implementing Python-based automation solutions that significantly boosted operational efficiency. I also excelled in technical support for a 60-person team and vendor management.",
+  message3:"With solid skills in Python, SQL, and Power BI, complemented by experience in JavaScript frameworks like React and Vue, I'm now seeking Data Analyst roles where I can leverage my technical proficiency and leadership abilities to drive impactful solutions and contribute to organizational growth.",
+  resume: "https://drive.google.com/file/d/1ceQAksKBauo8aL8HT-G8gP0EhPn0GJLT/view?usp=sharing",
 };
 
 // PROJECTS SECTION
@@ -94,28 +95,32 @@ const leadership = {
 
 // SKILLS SECTION
 const skills = {
-  show: true,
-  heading: "Skills",
-  hardSkills: [
-    { name: "Python", value: 90 },
-    { name: "Django", value: 70 },
-    { name: "SQL", value: 75 },
-    { name: "NoSQL", value: 50 },
-    { name: "JavaScript", value: 90 },
-    { name: "React", value: 65 },
-    { name: "React Native", value: 80 },
-    { name: "HTML/CSS", value: 55 },
-  ],
-  softSkills: [
-    { name: "Goal-Oriented", value: 100 },
-    { name: "Leadership", value: 100 },
-    { name: "Collaboration", value: 100 },
-    { name: "Positivity", value: 100 },
-    { name: "Adaptability", value: 100 },
-    { name: "Problem Solving", value: 100 },
-    { name: "Empathy", value: 100 },
-    { name: "Organization", value: 100 },
-  ],
+    show: true,
+    heading: "My Skills", // A more personal heading
+    hardSkills: [
+        { name: "Python", value: 90 }, // Strong for automation and data
+        { name: "SQL", value: 85 },    // Key for data and ERP
+        { name: "Power BI", value: 80 }, // Direct experience building dashboards
+        { name: "JavaScript", value: 70 }, // Good understanding, base for frameworks
+        { name: "React.js", value: 65 }, // Experience with frameworks
+        { name: "Vue.js", value: 60 },   // Experience with frameworks
+        { name: "Express.js", value: 55 }, // Experience with JS backend
+        { name: "MS SQL Server", value: 75 }, // Direct use in your experience
+        { name: "HTML & CSS", value: 65 }, // Necessary for front-end and dashboards
+        { name: "Process Automation", value: 80 }, // Direct experience
+        { name: "Data Analysis", value: 85 }, // Your core focus
+        { name: "ERP System Migration", value: 70 } // Specific skill from your experience
+    ],
+    softSkills: [
+        { name: "Leadership", value: 95 }, // You were a department head
+        { name: "Project Management", value: 90 }, // ERP migration, automations
+        { name: "Problem Solving", value: 95 },
+        { name: "Interpersonal Communication", value: 90 }, // Managing 60 people, vendors
+        { name: "Technological Adaptability", value: 90 }, // Staying up-to-date
+        { name: "Results-Oriented", value: 95 },
+        { name: "Team Collaboration", value: 85 },
+        { name: "Vendor Management", value: 80 } // Direct skill from your experience
+    ],
 };
 
 // GET IN TOUCH SECTION
@@ -132,14 +137,19 @@ const experiences = {
   heading: "Experiences",
   data: [
     {
-      role: 'Software Engineer',// Here Add Company Name
-      companylogo: require('../assets/img/dell.png'),
-      date: 'June 2018 – Present',
+      role: 'Head IT, Super Cauchos Mercabar',// Here Add Company Name
+      companylogo: "https://gruposupercauchos.com/wp-content/uploads/2024/01/Grupo-Super-Cauchos-Fondo-negro-e1704911957923-1024x661.png",
+      date: 'October 2023-  June - 2025',
     },
     {
-      role: 'Front-End Developer',
-      companylogo: require('../assets/img/boeing.png'),
-      date: 'May 2017 – May 2018',
+      role: 'ERP consultant, Multillantas colombia',
+      companylogo:"https://gruposupercauchos.com/wp-content/uploads/2024/01/LOGOMLLSINFONDO-08-4-1-e1706644335197.png",
+      date: 'January 2023 – June 2025',
+    },
+    {
+      role: 'Head IT, Super Lub',
+      companylogo:"https://gruposupercauchos.com/wp-content/uploads/2024/01/industrial-2.3-e1705075526678.png",
+      date: 'October 2023-  June - 2025',
     },
   ]
 }
