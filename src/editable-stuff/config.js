@@ -15,10 +15,7 @@ const mainBody = {
       image: "fa-github",
       url: "https://github.com/nasd0408",
     },
-    {
-      image: "fa-instagram",
-      url: "https://www.instagram.com/nasd_04/",
-    },
+  
     {
       image: "fa-linkedin",
       url: "https://www.linkedin.com/in/nicolas-sira/",
